@@ -1,0 +1,23 @@
+{
+  "name": "@nine06/functions",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "@netlify/functions": "^1.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/textbook/nine06.git"
+  },
+  "keywords": [],
+  "author": "Jonathan Sharpe <mail@jonrshar.pe>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/textbook/nine06/issues"
+  },
+  "homepage": "https://github.com/textbook/nine06#readme"
+}
