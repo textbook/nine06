@@ -1,2 +1,5 @@
 [functions]
-    directory = "packages/functions"
+directory = "packages/functions"
+
+[functions."message"]
+schedule = "6 9 * * *"
