@@ -1,0 +1,12 @@
+{
+  "root": true,
+  "extends": [
+    "@codeyourfuture/standard",
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "rules": {
+    "@typescript-eslint/no-explicit-any": "error",
+    "@typescript-eslint/no-non-null-assertion": "error",
+    "@typescript-eslint/no-unused-vars": "error"
+  }
+}
