@@ -1,0 +1,5 @@
+[functions]
+    directory = "functions"
+
+[functions.environment]
+    AWS_LAMBDA_JS_RUNTIME = "nodejs18.x"
